@@ -15,6 +15,7 @@
 		1761D9502119AE670093C946 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1761D94E2119AE670093C946 /* LaunchScreen.storyboard */; };
 		1761D95B2119AE670093C946 /* ARKitDemoInvisibleFloor2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1761D95A2119AE670093C946 /* ARKitDemoInvisibleFloor2Tests.swift */; };
 		1761D9662119AE680093C946 /* ARKitDemoInvisibleFloor2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1761D9652119AE680093C946 /* ARKitDemoInvisibleFloor2UITests.swift */; };
+		1761D9742119C08D0093C946 /* screen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1761D9732119C08D0093C946 /* screen.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,8 @@
 		1761D9612119AE670093C946 /* ARKitDemoInvisibleFloor2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ARKitDemoInvisibleFloor2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1761D9652119AE680093C946 /* ARKitDemoInvisibleFloor2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARKitDemoInvisibleFloor2UITests.swift; sourceTree = "<group>"; };
 		1761D9672119AE680093C946 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1761D9732119C08D0093C946 /* screen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = screen.jpg; sourceTree = "<group>"; };
+		1761D9752119C0BD0093C946 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +82,8 @@
 		1761D9372119AE650093C946 = {
 			isa = PBXGroup;
 			children = (
+				1761D9752119C0BD0093C946 /* README.md */,
+				1761D9732119C08D0093C946 /* screen.jpg */,
 				1761D9422119AE650093C946 /* ARKitDemoInvisibleFloor2 */,
 				1761D9592119AE670093C946 /* ARKitDemoInvisibleFloor2Tests */,
 				1761D9642119AE670093C946 /* ARKitDemoInvisibleFloor2UITests */,
@@ -234,6 +239,7 @@
 			files = (
 				1761D9462119AE650093C946 /* art.scnassets in Resources */,
 				1761D9502119AE670093C946 /* LaunchScreen.storyboard in Resources */,
+				1761D9742119C08D0093C946 /* screen.jpg in Resources */,
 				1761D94D2119AE670093C946 /* Assets.xcassets in Resources */,
 				1761D94B2119AE650093C946 /* Main.storyboard in Resources */,
 			);
